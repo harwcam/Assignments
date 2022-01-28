@@ -1,6 +1,6 @@
 # 🏗️ Create a Webpage Using HTML
 
-Work with a partner to implement the following user story:
+Work with a partner to implement the following user story: Hello World
 
 * As a student, I want to create a biography page that includes an image, a paragraph about me, and my contact information.
 
